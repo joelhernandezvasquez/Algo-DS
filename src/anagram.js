@@ -41,5 +41,5 @@ function mapCharacters (str) {
   return map;
 }
 
-const f = anagrams('RAIL! SAFETY!', 'fairy tales')
+const f = anagrams('a', 'aa')
 console.log(f)

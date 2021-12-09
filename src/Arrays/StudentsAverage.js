@@ -1,4 +1,4 @@
-// Here is a 2d array of student scores, student names might be
+c// Here is a 2d array of student scores, student names might be
 // repeated multiple times. If this is the case, sum up all the scores and
 //  divide by the number of occurrences to find the average,
 // do the Math.floor if necessary.
